@@ -1,0 +1,5 @@
+#iniciar el contador en 100
+contador = int (100)
+#con el i tomando los valores de 1 al 100 en bucle se lo restamos al contador.
+for i in range(1, contador): 
+    print(contador-i)
